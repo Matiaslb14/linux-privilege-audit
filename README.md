@@ -70,4 +70,12 @@ Schedule this script in cron or systemd to detect deviations.
 This tool is intended for educational and defensive security purposes.
 Do not run it on systems without proper authorization.
 
+## 📸 Screenshots
+
+### Running the script
+![Run script](images/run_script.png)
+
+### SUID audit results (CSV preview)
+![SUID results](images/suid_results.png)
+
 ✍️ Author: Matías Lagos (Mati)
