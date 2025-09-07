@@ -1,0 +1,3 @@
+issue,detail
+"World-writable PATH dir","/sbin (lrwxrwxrwx)"
+"World-writable PATH dir","/bin (lrwxrwxrwx)"

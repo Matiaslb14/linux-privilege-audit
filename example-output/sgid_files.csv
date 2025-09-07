@@ -1,0 +1,9 @@
+path,owner,group,perm,sha256
+"/usr/bin/chage","root","shadow","-rwxr-sr-x","17fd8d11fc8da8d398ec100b11e7214b56ae72e7e52fd07acf51d2c7f3ea311c"
+"/usr/bin/crontab","root","crontab","-rwxr-sr-x","1005dff924ce4369f4b0838f484c0603507c8960b15bf8057f46ac1b1a1ce210"
+"/usr/bin/dotlockfile","root","mail","-rwxr-sr-x","b019684cd4b26d0c8459695f8f62b8ada2fac8c28fbfdcd8df3e367652bba043"
+"/usr/bin/expiry","root","shadow","-rwxr-sr-x","c45d61bed0173cfb1e15d84d78d244f2c3c882e2864ad3577ae62dd16f89cc14"
+"/usr/bin/plocate","root","plocate","-rwxr-sr-x","77e7da65583f2f2125f7a5e0f62b71fb9f2e5c4eab746b1f0858af83122e47b9"
+"/usr/bin/ssh-agent","root","_ssh","-rwxr-sr-x","3263610c5f949a05440367c798622e12f1d23a5ff2184a039546a098058aa813"
+"/usr/lib/xorg/Xorg.wrap","root","root","-rwsr-sr-x","68ad27abb55f13728ede04d824f94092f6fd598d1366852834440666f02ed46c"
+"/usr/sbin/unix_chkpwd","root","shadow","-rwxr-sr-x","a8af8aef9b34e265fc822163940a3162648adf349659c7f339cdcc8a9fa8d952"
